@@ -4,9 +4,10 @@
 
 ### Dokumentasi Program
 #### Main
+![alt text](https://github.com/nabillassyfa/Kuis_Flutter_C2_Kel15/blob/main/Dokumentasi/Main1.png)
 #### Beranda
 ##### Beranda jika dijalankan pada mobile
-![alt text](https://github.com/nabillassyfa/KUIS_Flutter_Kel_15/blob/main/Dokumentasi/Beranda%20di%20Android.png)
+![alt text](https://github.com/nabillassyfa/Kuis_Flutter_C2_Kel15/blob/main/Dokumentasi/Beranda%20di%20Android.png)
 ##### Beranda jika dijalankan pada web
-![alt text](https://github.com/nabillassyfa/KUIS_Flutter_Kel_15/blob/main/Dokumentasi/Beranda%20di%20Web.png)
+![alt text](https://github.com/nabillassyfa/Kuis_Flutter_C2_Kel15/blob/main/Dokumentasi/Beranda%20di%20Web.png)
 #### Profil
